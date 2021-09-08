@@ -4,3 +4,6 @@
 [submodule "bbtest"]
 	path = bbtest
 	url = git@github.com:KrzysztofHeller/bbtest.git
+[submodule "sub-x"]
+	path = sub-x
+	url = https://github.com/slskopytko/sub-x.git
