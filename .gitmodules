@@ -1,0 +1,3 @@
+[submodule "for-delete"]
+	path = for-delete
+	url = https://github.com/KrzysztofHeller/for-delete.git
