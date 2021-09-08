@@ -1,3 +1,6 @@
 [submodule "for-delete"]
 	path = for-delete
 	url = https://github.com/KrzysztofHeller/for-delete.git
+[submodule "bbtest"]
+	path = bbtest
+	url = git@github.com:KrzysztofHeller/bbtest.git
