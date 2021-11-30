@@ -1,6 +1,0 @@
-[submodule "for-delete"]
-	path = for-delete
-	url = https://github.com/KrzysztofHeller/for-delete.git
-[submodule "sub-x"]
-	path = sub-x
-	url = https://github.com/slskopytko/sub-x.git
