@@ -1,0 +1,3 @@
+[submodule "bbtest"]
+	path = bbtest
+	url = https://github.com/KrzysztofHeller/bbtest
